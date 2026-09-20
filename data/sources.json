@@ -1,0 +1,353 @@
+[
+  {
+    "id": "db6f226e-1fbe-413a-b558-b5c2b2b0be52",
+    "name": "三色資源回收位置清單",
+    "methods": "API",
+    "apiId": 4523,
+    "frequency": "每月",
+    "url": "https://data.gov.mo/Detail?id=db6f226e-1fbe-413a-b558-b5c2b2b0be52",
+    "dept": "環境保護局"
+  },
+  {
+    "id": "a7059c6d-880b-4abd-8bef-45a9498442ba",
+    "name": "休憩區",
+    "methods": "API＋檔案",
+    "apiId": 2944,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=a7059c6d-880b-4abd-8bef-45a9498442ba",
+    "dept": "市政署"
+  },
+  {
+    "id": "07228099-08a0-444c-b087-7149585c2b30",
+    "name": "低窪地區水浸後的臨時垃圾收集點的列表",
+    "methods": "API",
+    "apiId": 4624,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=07228099-08a0-444c-b087-7149585c2b30",
+    "dept": "市政署"
+  },
+  {
+    "id": "ac55c2f1-780a-4dc8-875f-851b2203b706",
+    "name": "停車場資料",
+    "methods": "API",
+    "apiId": 6,
+    "frequency": "10秒☯10秒☯10 Segundo(s)☯10Second(s)",
+    "url": "https://data.gov.mo/Detail?id=ac55c2f1-780a-4dc8-875f-851b2203b706",
+    "dept": "交通事務局"
+  },
+  {
+    "id": "33264820-4523-4e8b-a91a-9089f922220a",
+    "name": "光管回收位置清單",
+    "methods": "API",
+    "apiId": 4521,
+    "frequency": "每月",
+    "url": "https://data.gov.mo/Detail?id=33264820-4523-4e8b-a91a-9089f922220a",
+    "dept": "環境保護局"
+  },
+  {
+    "id": "6c7617b7-8165-4564-9b51-055ddda8b3ad",
+    "name": "全澳垃圾收集設施的資訊列表",
+    "methods": "API",
+    "apiId": 4625,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=6c7617b7-8165-4564-9b51-055ddda8b3ad",
+    "dept": "市政署"
+  },
+  {
+    "id": "f6a9892d-7e16-49f0-bcd3-573d670cefe5",
+    "name": "公共廁所",
+    "methods": "API＋檔案",
+    "apiId": 2943,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=f6a9892d-7e16-49f0-bcd3-573d670cefe5",
+    "dept": "市政署"
+  },
+  {
+    "id": "12916045-4895-408c-bfe5-c923af422e12",
+    "name": "公園及花園",
+    "methods": "API＋檔案",
+    "apiId": 2949,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=12916045-4895-408c-bfe5-c923af422e12",
+    "dept": "市政署"
+  },
+  {
+    "id": "81f67dfa-4e4d-4a7a-b93c-1fdf4f3fe757",
+    "name": "公民教育資源中心、資訊廊、食品資訊站及中華民族雕塑園",
+    "methods": "API＋檔案",
+    "apiId": 2956,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=81f67dfa-4e4d-4a7a-b93c-1fdf4f3fe757",
+    "dept": "市政署"
+  },
+  {
+    "id": "7c530888-f4ca-40db-8369-b4efbb836630",
+    "name": "列出各區親子廁所分佈的資訊列表",
+    "methods": "API＋檔案",
+    "apiId": 4627,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=7c530888-f4ca-40db-8369-b4efbb836630",
+    "dept": "市政署"
+  },
+  {
+    "id": "4769bf99-b39a-4260-9e64-0aaf4073fe94",
+    "name": "各區的自然生態區的資訊列表",
+    "methods": "API",
+    "apiId": 4726,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=4769bf99-b39a-4260-9e64-0aaf4073fe94",
+    "dept": "市政署"
+  },
+  {
+    "id": "57964cb5-5868-47e5-bd8d-334385467a21",
+    "name": "垃圾房",
+    "methods": "API＋檔案",
+    "apiId": 2955,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=57964cb5-5868-47e5-bd8d-334385467a21",
+    "dept": "市政署"
+  },
+  {
+    "id": "e49ac4a5-83c1-48f8-8317-e783f4a1867e",
+    "name": "壓縮式垃圾收集點",
+    "methods": "API＋檔案",
+    "apiId": 2952,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=e49ac4a5-83c1-48f8-8317-e783f4a1867e",
+    "dept": "市政署"
+  },
+  {
+    "id": "e435fcee-e3a2-4f01-b17d-d3c43b35362d",
+    "name": "市政墳場",
+    "methods": "API＋檔案",
+    "apiId": 2948,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=e435fcee-e3a2-4f01-b17d-d3c43b35362d",
+    "dept": "市政署"
+  },
+  {
+    "id": "e410770e-caa6-4a56-872b-68b8af389cac",
+    "name": "市政活動場地",
+    "methods": "API＋檔案",
+    "apiId": 2947,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=e410770e-caa6-4a56-872b-68b8af389cac",
+    "dept": "市政署"
+  },
+  {
+    "id": "cf8f797d-91fa-4392-ab3f-259ddacef8d0",
+    "name": "市政狗房",
+    "methods": "API＋檔案",
+    "apiId": 2958,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=cf8f797d-91fa-4392-ab3f-259ddacef8d0",
+    "dept": "市政署"
+  },
+  {
+    "id": "7e1eca8e-6ffe-4f74-8c81-25c25beb45b2",
+    "name": "文化遺產資料",
+    "methods": "API",
+    "apiId": 4167,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=7e1eca8e-6ffe-4f74-8c81-25c25beb45b2",
+    "dept": "文化局"
+  },
+  {
+    "id": "12d42ec3-6d61-4daf-b713-eecbfcff5daa",
+    "name": "智能回收機位置清單",
+    "methods": "API",
+    "apiId": 1843,
+    "frequency": "每月",
+    "url": "https://data.gov.mo/Detail?id=12d42ec3-6d61-4daf-b713-eecbfcff5daa",
+    "dept": "環境保護局"
+  },
+  {
+    "id": "b485d9c8-0c25-438c-ac9b-58fe35b90c50",
+    "name": "服務中心",
+    "methods": "API＋檔案",
+    "apiId": 2959,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=b485d9c8-0c25-438c-ac9b-58fe35b90c50",
+    "dept": "市政署"
+  },
+  {
+    "id": "e6174dfc-29dd-4fdd-bb55-a380dbd2eedc",
+    "name": "植物園",
+    "methods": "API＋檔案",
+    "apiId": 3507,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=e6174dfc-29dd-4fdd-bb55-a380dbd2eedc",
+    "dept": "市政署"
+  },
+  {
+    "id": "d77cc4e7-aa12-42b6-bf7d-72d9ca683598",
+    "name": "母乳餵哺室／育嬰室",
+    "methods": "API＋檔案",
+    "apiId": 2945,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=d77cc4e7-aa12-42b6-bf7d-72d9ca683598",
+    "dept": "市政署"
+  },
+  {
+    "id": "d45d75ab-bc5a-4bef-aef0-5c197939efa9",
+    "name": "漫步澳門街 - 路線介紹的資訊列表",
+    "methods": "API",
+    "apiId": 4662,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=d45d75ab-bc5a-4bef-aef0-5c197939efa9",
+    "dept": "市政署"
+  },
+  {
+    "id": "96525dc6-66ce-41fb-8138-2fd84580884a",
+    "name": "澳門古樹名木清單",
+    "methods": "API",
+    "apiId": 4722,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=96525dc6-66ce-41fb-8138-2fd84580884a",
+    "dept": "市政署"
+  },
+  {
+    "id": "0fc780f6-02bd-4c59-901b-8192132484af",
+    "name": "澳門大熊貓館",
+    "methods": "API＋檔案",
+    "apiId": 3504,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=0fc780f6-02bd-4c59-901b-8192132484af",
+    "dept": "市政署"
+  },
+  {
+    "id": "513cba0e-684d-4cf1-bd3c-f8af1adb0392",
+    "name": "無障礙公廁",
+    "methods": "API＋檔案",
+    "apiId": 2951,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=513cba0e-684d-4cf1-bd3c-f8af1adb0392",
+    "dept": "市政署"
+  },
+  {
+    "id": "b1ac4673-f2ce-4188-94de-7891cdc24b13",
+    "name": "狗糞收集點",
+    "methods": "API＋檔案",
+    "apiId": 2953,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=b1ac4673-f2ce-4188-94de-7891cdc24b13",
+    "dept": "市政署"
+  },
+  {
+    "id": "ed7af40d-ba7e-4014-8771-3e8a5c0c026b",
+    "name": "珍稀動物館",
+    "methods": "API＋檔案",
+    "apiId": 3505,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=ed7af40d-ba7e-4014-8771-3e8a5c0c026b",
+    "dept": "市政署"
+  },
+  {
+    "id": "4b1be506-bcd7-401f-8de1-0e45162e179f",
+    "name": "環境資訊中心",
+    "methods": "API＋檔案",
+    "apiId": 4620,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=4b1be506-bcd7-401f-8de1-0e45162e179f",
+    "dept": "市政署"
+  },
+  {
+    "id": "fda80b44-fe70-4b91-a75f-ded5e7405489",
+    "name": "綠化教育設施的資訊列表",
+    "methods": "API",
+    "apiId": 4725,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=fda80b44-fe70-4b91-a75f-ded5e7405489",
+    "dept": "市政署"
+  },
+  {
+    "id": "d072fae8-6df8-46b8-964c-3714f5e3b59f",
+    "name": "街市、街市熟食中心及小販區",
+    "methods": "API＋檔案",
+    "apiId": 2950,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=d072fae8-6df8-46b8-964c-3714f5e3b59f",
+    "dept": "市政署"
+  },
+  {
+    "id": "9752015a-cbfb-4fa6-a4d8-3bafb4075013",
+    "name": "街道橫額分佈位置",
+    "methods": "API",
+    "apiId": 4351,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=9752015a-cbfb-4fa6-a4d8-3bafb4075013",
+    "dept": "市政署"
+  },
+  {
+    "id": "c5c1b295-524d-4bfe-9c66-0dd799df3fe2",
+    "name": "街道橫額設置的明細表",
+    "methods": "API",
+    "apiId": 4350,
+    "frequency": "按需要",
+    "url": "https://data.gov.mo/Detail?id=c5c1b295-524d-4bfe-9c66-0dd799df3fe2",
+    "dept": "市政署"
+  },
+  {
+    "id": "29c026d7-034a-4842-b1f2-ccfb82fab316",
+    "name": "遛狗區地點資訊",
+    "methods": "API＋檔案",
+    "apiId": 2954,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=29c026d7-034a-4842-b1f2-ccfb82fab316",
+    "dept": "市政署"
+  },
+  {
+    "id": "98a70a6a-755e-47db-b0b6-619d2df331f1",
+    "name": "郊野公園及自然生態區",
+    "methods": "API＋檔案",
+    "apiId": 2946,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=98a70a6a-755e-47db-b0b6-619d2df331f1",
+    "dept": "市政署"
+  },
+  {
+    "id": "6dafc514-7fc6-4d4e-9468-8772ba1c3b44",
+    "name": "酒店/經濟型住宿場所/公寓式酒店資料",
+    "methods": "API＋檔案",
+    "apiId": 7,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=6dafc514-7fc6-4d4e-9468-8772ba1c3b44",
+    "dept": "旅遊局"
+  },
+  {
+    "id": "a536616e-d870-4137-8dd6-0b2125a6c2a5",
+    "name": "電池回收位置清單",
+    "methods": "API",
+    "apiId": 4522,
+    "frequency": "每月",
+    "url": "https://data.gov.mo/Detail?id=a536616e-d870-4137-8dd6-0b2125a6c2a5",
+    "dept": "環境保護局"
+  },
+  {
+    "id": "d358a990-06f2-4a65-9045-7543ae9f826f",
+    "name": "電腦及通訊設備回收計劃回收位置清單",
+    "methods": "API",
+    "apiId": 1844,
+    "frequency": "每月",
+    "url": "https://data.gov.mo/Detail?id=d358a990-06f2-4a65-9045-7543ae9f826f",
+    "dept": "環境保護局"
+  },
+  {
+    "id": "5c28f0cf-1666-44bd-9339-50d81d28f0f7",
+    "name": "飲水機",
+    "methods": "API＋檔案",
+    "apiId": 2957,
+    "frequency": "每日",
+    "url": "https://data.gov.mo/Detail?id=5c28f0cf-1666-44bd-9339-50d81d28f0f7",
+    "dept": "市政署"
+  },
+  {
+    "id": "c82615a1-af57-401f-ae78-6eec7a18a530",
+    "name": "飲水設施位置清單",
+    "methods": "API",
+    "apiId": 1823,
+    "frequency": "每月",
+    "url": "https://data.gov.mo/Detail?id=c82615a1-af57-401f-ae78-6eec7a18a530",
+    "dept": "環境保護局"
+  }
+]
