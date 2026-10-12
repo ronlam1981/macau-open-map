@@ -18,3 +18,17 @@ assert not re.search(r'APPCODE |"appCode"|Authorization',s)
 assert not any(t in s for t in ['/*APP_JS*/','/*DATA*/','/*APP_CSS*/'])
 assert 'id="clearFilters"' in s and 'id="filterSummary"' in s
 print(json.dumps({'datasets':len(d['catalog']),'readyLayers':sum(x['status']=='ready' for x in d['layers']),'points':len(d['points']),'status':'PASS'},ensure_ascii=False))
+
+if d.get('bus'):
+ bus=d['bus'];points={p['id']:p for p in d['points']}
+ assert len(bus['routes'])==len({r['id'] for r in bus['routes']})
+ for route in bus['routes']:
+  assert route['stops'] and route['segments']
+  assert all(s in points and points[s].get('busPoleId') for s in route['stops'])
+  assert all(s in bus['networks'] for s in route['segments'])
+ for parts in bus['networks'].values():
+  for part in parts:
+   assert len(part)>=2
+   assert all(22.08<=lat<=22.25 and 113.48<=lon<=113.65 for lat,lon in part)
+ assert bus['sourceCrs']=='EPSG:8433' and bus['transformAccuracyMetres']>0
+ print('BUS PASS:',sum('busPoleId' in p for p in d['points']),'stops,',len(bus['routes']),'direction records')
